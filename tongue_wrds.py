@@ -1,0 +1,14 @@
+import time
+Words = ["SHE SELLS SEA SHELLS BY THE SEASHORE", "WHICH WITCH IS WHICH",
+         "HOW MUCH WOULD A WOODCHUCK CHUCK, IF A WOODCHUCK COULD CHUCK WOOD",
+         "I SAW A SAW THAT COULD OUT SAW ANY OTHER SAW I EVER SAW",
+         "BETTY BOUGHT A BIT OF BUTTER BUT THE BIT OF BUTTER WAS TOO BITTER",
+         "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOGS"]
+
+
+def countdown(t):
+    while t > 0:
+        print(t)
+        time.sleep(1)
+        t -= 1
+

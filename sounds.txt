@@ -1,0 +1,8 @@
+mary-sample1.wav
+mary-sample2.wav
+mary-sample3.wav
+mary-sample4.wav
+selase-sample1.wav
+selase-sample2.wav
+selase-sample3.wav
+selase-sample4.wav
